@@ -19,3 +19,4 @@ Test files are provided with installation. These ensure the program works as int
 ## Installation
 
 Click on the green "Code" button to the right, and click "Download ZIP". 
+Once extracted, open a terminal within the project directory. Type Make to construct the object files.
